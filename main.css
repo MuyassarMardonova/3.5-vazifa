@@ -1,0 +1,159 @@
+.container {
+  max-width: 1440px;
+  margin: 0px auto;
+}
+
+.navbar {
+  width: 1286px;
+  padding-left: 54px;
+  padding-right: 100px;
+  display: inline-flex;
+}
+.navbar__content {
+  display: inline-flex;
+  gap: 200px;
+  padding: 30px;
+}
+.navbar__logo img {
+  width: 50px;
+  height: 32px;
+}
+.navbar__logo b {
+  color: #000;
+  font-family: "Montserrat", sans-serif;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.navbar__menus ul {
+  display: inline-flex;
+  gap: 60px;
+  list-style: none;
+}
+.navbar__menus ul a {
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+.navbar__icons {
+  padding: 36px;
+  display: inline-flex;
+  gap: 45px;
+}
+.navbar__icons__icons-content {
+  width: 28px;
+  height: 28px;
+  flex-shrink: 0;
+}
+
+.mask-group__content {
+  background-image: url(./images/scandinavian-interior-mockup-wall-decal-background\ 1\ \(1\).jpg);
+  height: 717px;
+  position: relative;
+}
+.mask-group__content .mask-group__box {
+  padding-left: 41px;
+  width: 643px;
+  height: 443px;
+  border-radius: 10px;
+  background: #FFF3E3;
+  position: absolute;
+  top: 153px;
+  right: 58px;
+}
+.mask-group__content .mask-group__box p {
+  margin-top: 62px;
+  color: #333;
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 3px;
+}
+.mask-group__content .mask-group__box h1 {
+  margin-top: 6px;
+  width: 559px;
+  height: 127px;
+  color: #B88E2F;
+  font-family: "Poppins", sans-serif;
+  font-size: 52px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 65px;
+  margin-bottom: 17px;
+}
+.mask-group__content .mask-group__box span {
+  color: #333;
+  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+.mask-group__content .mask-group__box button {
+  margin-top: 46px;
+  display: inline-flex;
+  padding: 25px 72px;
+  align-items: flex-start;
+  gap: 10px;
+  background: #B88E2F;
+  border: none;
+  margin-bottom: 40px;
+}
+
+.browsetherange {
+  width: 1183px;
+  height: 685px;
+  position: absolute;
+  top: 869px;
+  left: 131px;
+}
+.browsetherange__imgs {
+  width: 381px;
+  height: 480px;
+  display: flex;
+  gap: 20px;
+  position: absolute;
+  top: 130px;
+  margin-top: 48px;
+}
+.browsetherange__text {
+  text-align: center;
+  padding: 20px 0px;
+}
+.browsetherange__text h3 {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  margin-bottom: 0px;
+}
+.browsetherange__text p {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+}
+.browsetherange__text span {
+  font-family: "Poppins", sans-serif;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.browsetherange__imgs1 {
+  border-radius: 20px;
+}
+
+.browsetherange__ims2 {
+  border-radius: 20px;
+}
+
+.browsetherange__imgs3 {
+  border-radius: 20px;
+}/*# sourceMappingURL=main.css.map */
